@@ -27,17 +27,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - php-7.3.8-nts-Win32-VC15-x86.zip
 - mysql-5.5.62-win32.msi 
 
-<h2>Installation Steps</h2>
-Took all the files and downloaded them on to a azure machine that made osticket run properly.
-</p>
-<br />
-after that we made sure that the file could be opened and ran.
-</p>
-<br />
-
-<p>
-</p>
-<p>
-thank you for taking time to look at the project.
-</p>
-<br />
+<img src= "https://docs.google.com/document/d/1PJu5ACu5lC72ePvscRWlg78JpGYAFi44H1nMn6wmQoI/edit"
